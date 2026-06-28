@@ -1,8 +1,17 @@
-yfinance
+#Langchain core
 langchain
+langchain-core
 langchain-community
+
+#Hugging face Integration
 langchain-huggingface
-pydantic
+transformers
+huggingface-hub
+
+#Environment variable management
 python-dotenv
+yfinance
 duckduckgo-search
-huggingface_hub
+pydantic
+torch
+requests
